@@ -175,6 +175,7 @@ const resumeData: Resume = {
 
 可以直接让 AI 帮你基于现有的简历修改。
 
+- [简历大师 ResumeMaster](https://markmiller1.github.io/resume-master/) — 永久免费的纯前端在线简历生成器（数据本地保存、ATS 检测、64 个免费页面）
 ### 5. 切换简历模板
 
 编辑 `src/App.tsx` 文件，修改导入的模板：
